@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oussema</h1>
-<h3 align="center">A passionate ML developer from Tunisia</h3>
+<h3 align="center">A passionate ML developer </h3>
 
 - 📫 How to reach me **oussemabenhassena5@gmail.com**
 
