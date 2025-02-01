@@ -16,7 +16,7 @@
 </div>
 
 
-### ⚡ Other Technologies & Tools
+### ⚡ My Toolbox
 
 
 <!-- Data & AI/ML Stack -->
@@ -25,72 +25,46 @@
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,redis,firebase,elasticsearch,jenkins,postman" />
   </a>
 </div>
-
-<br/>
 <hr/>
 
-### 🌟 About Me 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <!-- Professional Journey on the Left -->
-    <td style="border: none; vertical-align: top; padding: 20px;">
-      <table style="border: none; border-collapse: collapse;">
-        <tr style="border: none;">
-          <td style="border: none;">
-            <h3>👨‍💻 Professional Journey</h3>
+  <h3>✨ Professional Journey</h3>
             <ul style="list-style: none; padding: 0; margin: 0;">
-              <li>💻 AI Software Developer at <b>Softylines DEV</b></li>
-              <li>📚 Computer Science Student at <b>Horizon School</b></li>
-              <li>🎯 Focusing on <b>RAG</b> & <b>OCR</b> softwares</li>
-              <li>🌱 Building robust <b>Backend Systems</b></li>
-              <li>⚡ Always exploring new technologies</li>
+              <li> ✅  AI Software Developer at <b>Softylines DEV</b></li>
+              <li> ✅  Computer Science Student at <b>Horizon School</b></li>
+              <li> ✅  Focusing on <b>RAG</b> & <b>OCR</b> softwares</li>
+              <li> ✅  Building robust <b>Backend Systems</b></li>
+              <li> ✅  Always exploring new technologies</li>
             </ul>
-            <h3>🛠️ Core Competencies</h3>
+<hr/>
+            <h3>✨ Core Expertise</h3>
             <ul style="list-style: none; padding: 0; margin: 0;">
-              <li><b>AI/ML</b>: RAG, OCR, Deep Learning, Computer Vision</li>
-              <li><b>Backend</b>: Django, FastAPI, Docker, Redis, Celery</li>
-              <li><b>Databases</b>: PostgreSQL, MySQL, MongoDB, ElasticSearch</li>
-              <li><b>Web Scraping</b>: BeautifulSoup, Scrapy, Selenium, PlayWright</li>
+              <li><b>AI/ML</b><span">       ▹ </span> RAG ✦ OCR ✦ CV </li>
+              <li><b>Backend</b><span>      ▹ </span> Django ✦ FastAPI ✦ Docker </li>
+              <li><b>Databases</b><span>    ▹ </span> PostgreSQL ✦ MongoDB ✦ ElasticSearch </li>
+              <li><b>Web Scraping</b><span> ▹ </span> BeautifulSoup ✦ Scrapy ✦ Selenium ✦ PlayWright</li>
             </ul>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- Skills Spotlight on the Right -->
-
-  </tr>
-</table>
-
 </div>
 <hr>
 
-
-
-### 💫 Let's Connect 
-<div>
-        <table style="border-collapse: collapse; border: none;">
-            <tr>
-                <td style="border: none; ">
-                    <a href="https://linkedin.com/in/oussema-ben-hassena-b445122a4" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipan-rakshit" height="50" width="60" />
-                    </a>
-                </td>
-                <td style="border: none;">
-                    <a href="https://gitlab.com/oussemabenhassena" target="_blank">
-                       <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="sandipan34" height="55" width="55" />
-                </a>
-                <td style="border: none;">
-                    <a href="mailto:oussemabenhassena5@gmail.com" target="_blank">
-                        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="@s_rakshit_" height="60" width="70" />
-                    </a>
-                </td>
-            </tr>
-        </table>
-    </div>
-
+### 🌟 Let's Connect
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 30px 0;">
+  <a href="https://linkedin.com/in/oussema-ben-hassena-b445122a4" target="_blank" style="transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2B3A55&logoWidth=30" height="30" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  
+  <a href="https://gitlab.com/oussemabenhassena" target="_blank" style="transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/-GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=2B3A55&logoWidth=30" height="30" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  
+  <a href="mailto:oussemabenhassena5@gmail.com" target="_blank" style="transition: transform 0.3s ease;">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B3A55&logoWidth=30" height="30" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+</div>
+<br>
+<br>
 <div align="center">
     <a href="#">
-        <img alt="thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=34F700&&size=26&&duration=2600&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!;Have+a+good+day!">
+        <img alt="thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=38F7F2&&size=26&&duration=2600&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!;Have+a+good+day!">
     </a>
 </div>
 <div align="center">
