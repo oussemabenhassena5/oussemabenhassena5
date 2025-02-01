@@ -80,7 +80,7 @@
                        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="sandipan34" height="55" width="55" />
                 </a>
                 <td style="border: none;">
-                    <a href=""mailto:oussemabenhassena5@gmail.com"" target="_blank">
+                    <a href="mailto:oussemabenhassena5@gmail.com" target="_blank">
                         <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="@s_rakshit_" height="60" width="70" />
                     </a>
                 </td>
