@@ -95,7 +95,7 @@
 </div>
 <div align="center">
     <a href="#">
-        <img src="assets/footer.svg" width=100%/>
+        <img src="footer.svg" width=100%/>
     </a>
 </div>
 
