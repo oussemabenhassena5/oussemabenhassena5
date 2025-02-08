@@ -50,17 +50,22 @@
 
 ### 💫 Certifications
 <div>
-  <img src="certifications/Django certification.png" width="300""/>
-  <img src="certifications/deeplearning.png" width="350"/>
-  <img src="certifications/transformers.png" width="350""/>
-  <img src="certifications/predictivemodels.png" width="350"/>
-  <img src="certifications/machinelearning.png" width="350""/>
-  <img src="certifications/datascience.png" width="350"/>
+  <h4> ✈️ NVIDIA</h4>
+  <img src="certifications/deeplearning.png" width="250" height="180"/>
+  <img src="certifications/transformers.png" width="250"/>
+  <img src="certifications/predictivemodels.png" width="250""/>
+</div>  
+<h4> ✈️ DATA CAMP</h4>
+<div>  
+  
+  <img src="certifications/datascience.png" width="250"/>
+  <img src="certifications/machinelearning.png" width="250"/>
+</div>
+<div>  
+  <h4> ✈️ UDEMY</h4>
+  <img src="certifications/Django certification.png" width="200"/>
 </div>
 
-<div>
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="140"/>
-</div>
 ### 🌟 Let's Connect
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 30px 0;">
   <a href="https://linkedin.com/in/oussema-ben-hassena-b445122a4" target="_blank" style="transition: transform 0.3s ease;">
