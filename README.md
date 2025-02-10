@@ -33,7 +33,7 @@
               <li> ✅  Computer Science Student at <b>Horizon School</b></li>
               <li> ✅  Focusing on <b>RAG</b> & <b>OCR</b> softwares</li>
               <li> ✅  Building robust <b>Backend Systems</b></li>
-              <li> ✅  Always exploring new technologies</li>
+              <li> ✅  Crafting Smart Web Scrapers</li>
             </ul>
 <hr/>
             <h3>✨ Core Expertise</h3>
