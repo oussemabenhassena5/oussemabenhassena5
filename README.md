@@ -3,6 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sirin+Stencil&size=35&duration=2000&pause=2000&color=38F7F2&center=true&vCenter=true&width=435&lines=Welcome+In!+%F0%9F%91%8B;I'm+Oussema+%F0%9F%A6%85" alt="Typing SVG" /></a>
   
 </h1>
+
 <!--
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=10&pause=1100&color=0EF74D&center=true&vCenter=true&width=435&lines=PYTHON;AI;BACKEND;WEB+SCRAPING;AUTOMATION" alt="Typing SVG" /></a><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=10&pause=1100&color=0EF74D&center=true&vCenter=true&width=435&lines=BACKEND;WEB+SCRAPING;PYTHON;AUTOMATION;AI" alt="Typing SVG" /></a></h1>
  Write your comments here -->
@@ -86,6 +87,7 @@
     <a href="#">
         <img alt="thanks for visiting!" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=38F7F2&&size=26&&duration=2600&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!;Have+a+good+day!">
     </a>
+  
 </div>
 <div align="center">
     <a href="#">
@@ -94,4 +96,14 @@
 </div>
 
 <br>
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=87CEEB&style=flat&logo" alt="back to top" /></a></p>
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=oussemabenhassena5&label=Profile%20views&color=brightgreen&style=flat" alt="oussema views" />
+    <a href="#top">
+        <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=87CEEB&style=flat&logo" alt="back to top" />
+    </a>
+</p>
+
+
+
+
+
