@@ -11,7 +11,7 @@
 ### ⚡ My Tech Powers
 <div>
     <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,docker,postgres,mongodb"/>  
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,docker,postgres,mongodb,selenium,playwright"/>  
     </a>
   <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=10&pause=1100&color=0EF74D&center=true&vCenter=true&width=435&lines=PYTHON;AI;BACKEND;WEB+SCRAPING;AUTOMATION" alt="Typing SVG" /></a> -->
 </div>
@@ -22,8 +22,9 @@
 
 <!-- Data & AI/ML Stack -->
 <div>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,redis,firebase,elasticsearch,jenkins,postman" />
+    </a>
+    <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,cuda,huggingface,langchain,opencv,mistral,ollama,pandas,elasticsearch,git,streamlit,stripe,redis,firebase,jenkins,postman,playwright&perline=9" />
   </a>
 </div>
 <hr/>
