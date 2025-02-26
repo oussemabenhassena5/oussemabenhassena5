@@ -24,7 +24,7 @@
 <div>
     </a>
     <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cuda,huggingface,langchain,opencv,ollama,pandas,elasticsearch,stripe,playwright,git,streamlit,pytorch,tensorflow,mistral,redis,firebase,jenkins,postman&perline=9" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cuda,huggingface,langchain,opencv,ollama,pandas,elasticsearch,stripe,playwright" />
   </a>
 </div>
 <hr/>
